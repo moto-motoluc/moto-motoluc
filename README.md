@@ -1,4 +1,7 @@
-## Boas vindas ao meu perfil 💙💙
+## Boas vindas ao meu perfil 
+## Meu nome é Lucas Gabriel
+## Estou me desinvolvendo na are de JavaScript
+## Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 <!--
 **moto-motoluc/moto-motoluc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
